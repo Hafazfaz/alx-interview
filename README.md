@@ -1,23 +1,7 @@
-0x00. Pascal's Triangle
-Algorithm
-Python
- By: Alexa Orrico, Software Engineer at Holberton School
- Weight: 1
- Project over - took place from Dec 19, 2022 5:00 AM to Dec 23, 2022 5:00 AM
- An auto review will be launched at the deadline
-In a nutshell…
-Auto QA review: 0.0/11 mandatory
-Altogether:  0.0%
-Mandatory: 0.0%
-Optional: no optional tasks
-Concepts
-For this project, we expect you to look at this concept:
-
-Technical interview
 Tasks
 0. Pascal's Triangle
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
+Score: 50.00% (Checks completed: 100.00%)
 Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n:
 
 Returns an empty list if n <= 0
